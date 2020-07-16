@@ -20,7 +20,7 @@ public class HomePage extends DriverClass {
     WebElement searchBar;
     @FindBy(xpath = "//input[@type='submit']")
     WebElement searchBtn;
-    @FindBy(linkText = "Computers ")
+    @FindBy(xpath = "//ul[@class='top-menu notmobile']/li[1]/a")
     WebElement computers;
     @FindBy(linkText = "Electronics ")
     WebElement electronics;
@@ -77,5 +77,11 @@ public class HomePage extends DriverClass {
         Reporter.addStepLog("click on book link"+ books.toString()+ "<br>");
         clickOnElement(books);
         log.info("Books link is clicked");
+    }
+    public void clickOnComputerLink() throws InterruptedException {
+        Thread.sleep(3000);
+        clickOnElement(computers);
+        Reporter.addStepLog("click on computer Link"+computers.toString()+"<br>");
+        log.info("Computer link clicked");
     }
 }

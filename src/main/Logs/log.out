@@ -102,3 +102,72 @@
 2020-07-16 11:57:13.764 INFO  DriverClass :79 - Books link is clicked
 2020-07-16 11:57:15.597 INFO  DriverClass :79 - Verify that books price: [$24.00, $27.00, $51.00] are sorted low price to high price [[ChromeDriver: chrome on WINDOWS (3356783e3577a4924c96a998fd3e6a74)] -> xpath: //select[@id='products-orderby']]
 2020-07-16 11:57:15.683 INFO  DriverClass :69 - Browser is closed
+2020-07-16 12:24:10.118 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:24:14.643 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 12:24:14.643 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:24:19.450 INFO  DriverClass :64 - Url is open
+2020-07-16 12:24:50.692 INFO  DriverClass :69 - Browser is closed
+2020-07-16 12:27:10.305 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:27:14.670 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 12:27:14.670 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:27:18.996 INFO  DriverClass :64 - Url is open
+2020-07-16 12:27:50.020 INFO  DriverClass :69 - Browser is closed
+2020-07-16 12:28:35.417 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:28:39.806 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 12:28:39.806 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:28:44.621 INFO  DriverClass :64 - Url is open
+2020-07-16 12:29:18.827 INFO  DriverClass :69 - Browser is closed
+2020-07-16 12:36:03.834 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:36:09.246 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 12:36:09.246 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 12:36:13.353 INFO  DriverClass :64 - Url is open
+2020-07-16 12:36:18.015 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 12:36:18.031 INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Computers
+2020-07-16 12:36:18.031 INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Computers
+2020-07-16 12:36:18.031 INFO  DriverClass :85 - Page Title of page is verified
+2020-07-16 12:36:18.140 INFO  DriverClass :69 - Browser is closed
+2020-07-16 13:04:48.717 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:04:53.100 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:04:53.100 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:04:57.250 INFO  DriverClass :64 - Url is open
+2020-07-16 13:05:02.301 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:05:02.487 INFO  DriverClass :69 - Browser is closed
+2020-07-16 13:05:29.547 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:05:33.871 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:05:33.871 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:05:38.925 INFO  DriverClass :64 - Url is open
+2020-07-16 13:05:43.530 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:07:44.459 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:07:48.786 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:07:48.786 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:07:53.624 INFO  DriverClass :64 - Url is open
+2020-07-16 13:07:58.252 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:09:01.876 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:09:06.267 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:09:06.267 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:09:10.220 INFO  DriverClass :64 - Url is open
+2020-07-16 13:09:14.809 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:09:42.838 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:09:47.151 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:09:47.151 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:09:51.380 INFO  DriverClass :64 - Url is open
+2020-07-16 13:09:56.327 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:11:10.203 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:11:14.512 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:11:14.512 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:11:18.959 INFO  DriverClass :64 - Url is open
+2020-07-16 13:11:24.037 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:12:00.616 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:12:04.955 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:12:04.955 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:12:09.154 INFO  DriverClass :64 - Url is open
+2020-07-16 13:12:14.178 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:17:53.448 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:17:57.917 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 13:17:57.917 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 13:18:02.101 INFO  DriverClass :64 - Url is open
+2020-07-16 13:18:07.075 INFO  DriverClass :85 - Computer link clicked
+2020-07-16 13:18:10.620 INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Notebooks
+2020-07-16 13:18:10.620 INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Notebooks
+2020-07-16 13:18:10.620 INFO  DriverClass :85 - Page Title of page is verified
+2020-07-16 13:18:10.620 INFO  DriverClass :19 - page title of Notebooks is nopCommerce demo store. Notebooks verified
