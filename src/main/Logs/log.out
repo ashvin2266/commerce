@@ -1,0 +1,104 @@
+2020-07-16 11:07:304 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:645 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:07:645 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:599 INFO  DriverClass :64 - Url is open
+2020-07-16 11:07:831 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:07:855 INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Books
+2020-07-16 11:07:855 INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Books
+2020-07-16 11:07:855 INFO  DriverClass :85 - Page Title of page is verified
+2020-07-16 11:07:862 INFO  DriverClass :75 - Expected URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:07:862 INFO  DriverClass :76 - Actual URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:07:862 INFO  DriverClass :77 - URL of page is verified
+2020-07-16 11:07:938 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:07:938 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:178 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:07:178 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:66 INFO  DriverClass :64 - Url is open
+2020-07-16 11:07:144 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:07:880 INFO  DriverClass :58 - Verify that books: [Fahrenheit 451 by Ray Bradbury, First Prize Pies, Pride and Prejudice] are sorted AtoZ [[ChromeDriver: chrome on WINDOWS (d377d4da01333db3943d0ab0d0321ee2)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:07:952 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:07:952 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:213 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:07:213 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:07:415 INFO  DriverClass :64 - Url is open
+2020-07-16 11:07:223 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:07:885 INFO  DriverClass :79 - Verify that books price: [$24.00, $27.00, $51.00] are sorted low price to high price [[ChromeDriver: chrome on WINDOWS (73db5305fde3b62e3d7e9c9575528e24)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:07:976 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:07:905[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:272[main] INFO  DriverClass :53 - Chrome browser is opensg
+2020-07-16 11:07:272[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:665[main] INFO  DriverClass :64 - Url is opensg
+2020-07-16 11:07:28[main] INFO  DriverClass :79 - Books link is clickedsg
+2020-07-16 11:07:54[main] INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Bookssg
+2020-07-16 11:07:54[main] INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Bookssg
+2020-07-16 11:07:55[main] INFO  DriverClass :85 - Page Title of page is verifiedsg
+2020-07-16 11:07:62[main] INFO  DriverClass :75 - Expected URL of page is  https://demo.nopcommerce.com/bookssg
+2020-07-16 11:07:62[main] INFO  DriverClass :76 - Actual URL of page is  https://demo.nopcommerce.com/bookssg
+2020-07-16 11:07:62[main] INFO  DriverClass :77 - URL of page is verifiedsg
+2020-07-16 11:07:174[main] INFO  DriverClass :69 - Browser is closedsg
+2020-07-16 11:07:176[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:433[main] INFO  DriverClass :53 - Chrome browser is opensg
+2020-07-16 11:07:434[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:691[main] INFO  DriverClass :64 - Url is opensg
+2020-07-16 11:07:739[main] INFO  DriverClass :79 - Books link is clickedsg
+2020-07-16 11:07:447[main] INFO  DriverClass :58 - Verify that books: [Fahrenheit 451 by Ray Bradbury, First Prize Pies, Pride and Prejudice] are sorted AtoZ [[ChromeDriver: chrome on WINDOWS (721685df62fd9e6b733975f55450d3b7)] -> xpath: //select[@id='products-orderby']]sg
+2020-07-16 11:07:541[main] INFO  DriverClass :69 - Browser is closedsg
+2020-07-16 11:07:543[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:785[main] INFO  DriverClass :53 - Chrome browser is opensg
+2020-07-16 11:07:786[main] INFO  DriverClass :37 - File is loaded from propertyfilesg
+2020-07-16 11:07:593[main] INFO  DriverClass :64 - Url is opensg
+2020-07-16 11:07:145[main] INFO  DriverClass :79 - Books link is clickedsg
+2020-07-16 11:07:997[main] INFO  DriverClass :79 - Verify that books price: [$24.00, $27.00, $51.00] are sorted low price to high price [[ChromeDriver: chrome on WINDOWS (a46559bcf254966ad0ce9c6321b58dee)] -> xpath: //select[@id='products-orderby']]sg
+2020-07-16 11:07:78[main] INFO  DriverClass :69 - Browser is closedsg
+2020-07-16 11:54:30.456 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:34.893 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:54:34.894 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:38.942 INFO  DriverClass :64 - Url is open
+2020-07-16 11:54:39.951 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:54:39.969 INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Books
+2020-07-16 11:54:39.970 INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Books
+2020-07-16 11:54:39.970 INFO  DriverClass :85 - Page Title of page is verified
+2020-07-16 11:54:39.975 INFO  DriverClass :75 - Expected URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:54:39.976 INFO  DriverClass :76 - Actual URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:54:39.976 INFO  DriverClass :77 - URL of page is verified
+2020-07-16 11:54:40.070 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:54:40.073 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:43.331 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:54:43.332 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:47.976 INFO  DriverClass :64 - Url is open
+2020-07-16 11:54:49.836 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:54:51.503 INFO  DriverClass :58 - Verify that books: [Fahrenheit 451 by Ray Bradbury, First Prize Pies, Pride and Prejudice] are sorted AtoZ [[ChromeDriver: chrome on WINDOWS (80e683c5531246b96fbfa47359fae826)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:54:51.588 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:54:51.589 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:54.842 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:54:54.843 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:54:59.065 INFO  DriverClass :64 - Url is open
+2020-07-16 11:54:59.821 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:55:01.443 INFO  DriverClass :79 - Verify that books price: [$24.00, $27.00, $51.00] are sorted low price to high price [[ChromeDriver: chrome on WINDOWS (ba183b57cf1a06786fec375001b01960)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:55:01.541 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:56:42.772 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:56:47.146 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:56:47.147 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:56:51.379 INFO  DriverClass :64 - Url is open
+2020-07-16 11:56:53.682 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:56:53.704 INFO  DriverClass :83 - Expected pageTitle of page is  nopCommerce demo store. Books
+2020-07-16 11:56:53.704 INFO  DriverClass :84 - Actual pagetitle of page is  nopCommerce demo store. Books
+2020-07-16 11:56:53.705 INFO  DriverClass :85 - Page Title of page is verified
+2020-07-16 11:56:53.714 INFO  DriverClass :75 - Expected URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:56:53.715 INFO  DriverClass :76 - Actual URL of page is  https://demo.nopcommerce.com/books
+2020-07-16 11:56:53.715 INFO  DriverClass :77 - URL of page is verified
+2020-07-16 11:56:53.800 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:56:53.802 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:56:57.042 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:56:57.043 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:57:01.439 INFO  DriverClass :64 - Url is open
+2020-07-16 11:57:03.372 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:57:04.379 INFO  DriverClass :58 - Verify that books: [Fahrenheit 451 by Ray Bradbury, First Prize Pies, Pride and Prejudice] are sorted AtoZ [[ChromeDriver: chrome on WINDOWS (18959f8f79310c6164e65b32ef6d5038)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:57:04.465 INFO  DriverClass :69 - Browser is closed
+2020-07-16 11:57:04.466 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:57:07.714 INFO  DriverClass :53 - Chrome browser is open
+2020-07-16 11:57:07.715 INFO  DriverClass :37 - File is loaded from propertyfile
+2020-07-16 11:57:11.965 INFO  DriverClass :64 - Url is open
+2020-07-16 11:57:13.764 INFO  DriverClass :79 - Books link is clicked
+2020-07-16 11:57:15.597 INFO  DriverClass :79 - Verify that books price: [$24.00, $27.00, $51.00] are sorted low price to high price [[ChromeDriver: chrome on WINDOWS (3356783e3577a4924c96a998fd3e6a74)] -> xpath: //select[@id='products-orderby']]
+2020-07-16 11:57:15.683 INFO  DriverClass :69 - Browser is closed
