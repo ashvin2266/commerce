@@ -1,3 +1,4 @@
+@computer
 Feature: Computers Feature
 
   As a user I want to view products on Computer page
@@ -11,11 +12,12 @@ Feature: Computers Feature
     Given   I am on Home page
     When    I click on Computer Link
     And  I click on category as"Notebooks"
-#    And     I sort computers by Name: A to Z
-#    Then    I should see the products displayed on the computer page sorted by alphabetic order
+   And     I sort computers by "Name: A to Z"
+   Then    I should see the products displayed on the computer page sorted by alphabetic order
   @computer2
   Scenario: User should see prices on Books page sorted by LowToHigh
     Given   I am on Home page
     When    I click on Computer Link
-    And     I sort computers by Price: Low to High
+    And  I click on category as"Notebooks"
+    And     I sort computers by "Price: Low to High"
     Then    I should see the products displayed on the computers page sorted by prices in ascending order

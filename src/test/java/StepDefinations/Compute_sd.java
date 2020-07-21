@@ -25,4 +25,24 @@ public class Compute_sd extends DriverClass {
      new ComputerPage().setCategory(categoryName);
      new NotebooksPage().verifyPage();
     }
+    @And("^I sort computers by \"([^\"]*)\"$")
+    public void iSortComputersBy(String arg0)  {
+        new ComputerPage().sortAtoZ(arg0);
+    }
+
+//    @And("^I sort computers by Name: A to Z$")
+//    public void iSortComputersByNameAToZ() {
+//         new ComputerPage().sortAtoZ();
+//
+//    }
+    @Then("^I should see the products displayed on the computer page sorted by alphabetic order$")
+    public void iShouldSeeTheProductsDisplayedOnTheComputerPageSortedByAlphabeticOrder() {
+        new ComputerPage().verifySortByAtoZ();
+    }
+
+
+    @Then("^I should see the products displayed on the computers page sorted by prices in ascending order$")
+    public void iShouldSeeTheProductsDisplayedOnTheComputersPageSortedByPricesInAscendingOrder() {
+        new ComputerPage().verifyComputerByLowPriceToHigh();
+    }
 }
