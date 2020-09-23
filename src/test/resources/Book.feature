@@ -1,4 +1,4 @@
- @book
+ @regression
 Feature: Book Feature
 
   As a user I want to view products on Books page

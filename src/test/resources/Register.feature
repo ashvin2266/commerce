@@ -42,7 +42,7 @@ Feature: Register feature
 
     Examples:
     |firstname|lastname|day|month |year|email             |companyname|password   |confirmpassword | errorMSG|
-    |  abc   | def    |25 |July  |1975|abcdef@hotmail.com|xyz        |789456123  | 789456123      |Your registration completed  |
+    |  abc   | def    |25 |July  |1975|abcdef@hotmail.com|xyz        |789456123  | 789456123      |The specified email already exists  |
     |        | def    |25 |July  |1975|abcdef@hotmail.com|xyz        |789456123  | 789456123      |First name is required.      |
     |   abc  |        |25 |July  |1975|abcdef@hotmail.com|xyz        |789456123  | 789456123      |Last name is required.       |
     |  abc   | def    |25 |July  |1975|                  |xyz        |789456123  | 789456123      |Email is required.           |

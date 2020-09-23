@@ -43,6 +43,8 @@ public class RegisterPage extends DriverClass {
     WebElement registrationCompleteText;
     @FindBy(xpath = "//span[@class='field-validation-error']")
     WebElement errorMsg;
+    @FindBy(xpath = "//div[@class='message-error validation-summary-errors']/ul/li")
+    WebElement errorMessage;
 
     public RegisterPage(){
         PageFactory.initElements(driver,this);
@@ -104,10 +106,27 @@ public class RegisterPage extends DriverClass {
         log.info("User should be able to see the message is---"+regMSG);
     }
     public void verifyErrorMessage(String errorMSG){
+        if (errorMSG.equalsIgnoreCase("The specified email already exists")){
+            String actualMSG=errorMessage.getText();
+            Assert.assertEquals(errorMSG,actualMSG);
+            log.info("Expected error message is  "+errorMSG);
+            log.info("Actual error message is  "+ actualMSG);
+            log.info("error message is verified");
+        }
+        else if (errorMSG.equalsIgnoreCase("Your registration completed")){
+            String actualMSG=registrationCompleteText.getText();
+            Assert.assertEquals(errorMSG,actualMSG);
+            log.info("Expected error message is  "+errorMSG);
+            log.info("Actual error message is  "+ actualMSG);
+            log.info("error message is verified");
+
+        }
+        else {
        String actualErrorMsg=errorMsg.getText();
+
        Assert.assertEquals(errorMSG,actualErrorMsg);
        log.info("Expected error message is  "+errorMSG);
        log.info("Actual error message is  "+ actualErrorMsg);
-       log.info("error message is verified");
+       log.info("error message is verified");}
     }
 }
